@@ -28,4 +28,4 @@ Full-Duplex Communication: Once upgraded,
 WebSockets facilitate full-duplex communication. In simpler terms, it means both the client and server can send messages to each other simultaneously, without the need for separate requests and responses.
 
 #OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/c174d31d-85d7-40dd-a82d-2f588aab1010)
